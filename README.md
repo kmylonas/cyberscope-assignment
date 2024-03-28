@@ -11,3 +11,4 @@ Client (dir name: cyberscope):
 1. cd cyberscope
 2. npm i
 3. npm run dev
+4. Visit localhost:5173
